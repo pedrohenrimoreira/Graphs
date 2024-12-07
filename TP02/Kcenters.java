@@ -1,7 +1,7 @@
 import java.io.*;
 import java.util.*;
 
-public class Kcenter {
+public class Kcenters {
     private static final int INF = Integer.MAX_VALUE;
 
     // Classe Graph
