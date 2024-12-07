@@ -313,5 +313,5 @@ static class BruteForce {
         } catch (InputMismatchException e) {
             System.out.println("Entrada inválida. Certifique-se de digitar números inteiros.");
         }
-    } 
+      } 
     }
