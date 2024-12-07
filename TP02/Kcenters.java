@@ -272,7 +272,7 @@ static class BruteForce {
     // Método principal
     public static void main(String[] args) {
         try {
-            String filePath = "entrada/pmed02.txt";
+            String filePath = "entradaspmed/pmed02.txt";
     
             // Lê o grafo e o valor de k diretamente do arquivo usando GraphFileReader
             GraphFileReader.ResultData resultData = GraphFileReader.readGraph(filePath);
