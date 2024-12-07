@@ -115,7 +115,7 @@ class Graph {
     }
 }
 
-public class Main {
+public class DFS {
     public static void main(String[] args) {
         boolean debug = true;
         Scanner scanner = new Scanner(System.in);
