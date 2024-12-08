@@ -75,7 +75,3 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou enviar
 - Bernardo D'Ávila
 - Pedro Henrique Moreira
 - Gabriel Fernandes Azevedo
-
-## 📜 Licença
-
-Esse `README.md` agora está pronto para ser utilizado em seu repositório GitHub! Ele já inclui todos os tópicos necessários, como descrição do projeto, instruções de execução e exemplos. Basta substituir os links do GitHub e LinkedIn com suas informações reais.
